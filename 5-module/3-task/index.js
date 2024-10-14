@@ -1,4 +1,5 @@
 function initCarousel() {
+
     let carouselInner = document.querySelector('.carousel__inner');
     let carouselArrows = document.querySelectorAll('.carousel__arrow');
     let arrowRight = document.querySelector('.carousel__arrow_right');
@@ -42,3 +43,5 @@ function initCarousel() {
 }
 
 
+  // ваш код...
+}
